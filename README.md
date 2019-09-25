@@ -1,7 +1,6 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-	<!DOCTYPE html>
 <title>My Example</title>
 
 <script>
